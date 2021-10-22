@@ -12,7 +12,7 @@
   "dependencies": {
     "@cronapp/framework-core": "2.9.0-SNAPSHOT.10",
     "cronapi-js": "git+https://github.com/technecloud/cronapi-js.git#544ddfa4168eec9cc225661830450f56d7bccde8",
-    "cronapp-common-js": "git+https://github.com/CronApp/cronapp-common-js.git#8df4af4feb5d8d59ae0f5f7db90e6097e67703f7",
-    "cronapp-framework-mobile-js": "git+https://github.com/technecloud/cronapp-framework-mobile-js.git#b6ad560e9584f4683f650ebe9e4ef7cc0c246d49"
+    "cronapp-common-js": "git+https://github.com/CronApp/cronapp-common-js.git#fb86f12172609e99de55b56faa6b43a6fde6b990",
+    "cronapp-framework-mobile-js": "git+https://github.com/technecloud/cronapp-framework-mobile-js.git#0ace86794e7bdd28a86f73751519b4cde0c645e6"
   }
 }
